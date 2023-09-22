@@ -5,8 +5,8 @@
       value: Linh P. Nguyen
     - name: Date of Birth
       value: 2nd April 2000
-    - name: Languages
-      value: English, Vietnamese
+    - name: Skills
+      value: Python, SQL, R, Java, C, Dart, MVC, Microsoft Excel, Tableau, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
 
 - title: Education
   type: time_table
@@ -15,36 +15,29 @@
       institution: Drexel University, Philadelphia, PA, USA
       year: 2022.01-2024.09
       description:
-        - GPA: 4.0/4.0, Dean’s List
+        - scores: 4.0/4.0, Dean’s List
         - GHC 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
         - Teaching Assistant (20 hrs/week) for Data Science Programming (INFO 212) and Database Management Systems (INFO 210)
     - title: Bachelor of Pharmacy 
       institution: University of Birmingham, Birmingham, U.K.
       year: 2018.09-2021.06
       description:
-        - GPA: 4.0/4.0, First-Class Honors
+        - GPA 4.0/4.0, First-Class Honors
         - Finished 3 out of 4 years
         - International Scholarship Award (Highest Scholarship)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Data Scientist Co-op
+      work: Oracle (Remote, US)
+      year: 2023.09-now
     - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+      work: California Institute of Technology, Pasadena, California, US
+      year: 2023.06-2023.09
       description:
-        - Description 1.
-        - Description 2.
+        - Created a JIRA-enhancing tool to optimize task automation and workflow efficiency. The product is currently in use, contributing to improved efficiency in project management and communication within the organization. Utilized AWS DynamoDB for data transformation, harnessed AWS EventBridge, Lambda, and SES for automation. Employed Java for backend development, MVC with JSP for front end, and Coral Services for API integration.
+        - Developed new functions for existing packages and seamlessly integrated them into Native AWS products using Java and AWS external/internal tools.
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
