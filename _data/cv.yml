@@ -30,10 +30,11 @@
   type: time_table
   contents:
     - title: Data Scientist Co-op
-      work: Oracle (Remote, US)
-      year: 2023.09-now
-    - title: Visiting Professor
-      work: California Institute of Technology, Pasadena, California, US
+      department: Oracle 
+      location: (Remote, PA)
+      year: 2023.09-present
+    - title: Software Development Engineer Intern
+      department: Amazon (Sunnyvale, CA)
       year: 2023.06-2023.09
       description:
         - Created a JIRA-enhancing tool to optimize task automation and workflow efficiency. The product is currently in use, contributing to improved efficiency in project management and communication within the organization. Utilized AWS DynamoDB for data transformation, harnessed AWS EventBridge, Lambda, and SES for automation. Employed Java for backend development, MVC with JSP for front end, and Coral Services for API integration.
