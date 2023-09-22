@@ -1,37 +1,33 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Linh P. Nguyen",
+    "label": "Data Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "npl02042000@gmail.com",
+    "phone": "(484) 343-5733",
+    "url": "https://npl0204.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "PA 19104",
+      "city": "Philadelphia",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Pennsylvania"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Oracle",
+      "position": "Data Scientist Co-op"
+      "startDate": "2023-09",
+      "endDate": "2024-03"
+    },
+    {
+      "name": "Amazon",
+      "position": "Software Development Engineer Intern"
+      "startDate": "2023-06",
+      "endDate": "2023-09",
       "highlights": [
-        "Relativity"
+        "Created a JIRA-enhancing tool to optimize task automation and workflow efficiency. The product is currently in use, contributing to improved efficiency in project management and communication within the organization. Utilized AWS DynamoDB for data transformation, harnessed AWS EventBridge, Lambda, and SES for automation. Employed Java for backend development, MVC with JSP for front end, and Coral Services for API integration.",
+        "Developed new functions for existing packages and seamlessly integrated them into Native AWS products using Java and AWS external/internal tools."
       ]
     }
   ],
