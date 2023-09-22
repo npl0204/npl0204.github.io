@@ -6,14 +6,14 @@ subtitle: Linh Nguyen - Data Scientist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>(484)-343-5733</p>
-    <p><a href='npl0204200)@gmail.com'>Email</a></p>
+    <p>npl0204200@gmail.com</p>
     <p><a href='https://linkedin.com/in/linhpn0204'>LinkedIn</a></p>
 news: false  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
