@@ -2,31 +2,29 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Linh P. Nguyen
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd April 2000
     - name: Languages
-      value: English, German
+      value: English, Vietnamese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S. in Data Science; minor in Computer Science
+      institution: Drexel University, Philadelphia, PA, USA
+      year: 2022.01-2024.09
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA: 4.0/4.0, Dean’s List
+        - GHC 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
+        - Teaching Assistant (20 hrs/week) for Data Science Programming (INFO 212) and Database Management Systems (INFO 210)
+    - title: Bachelor of Pharmacy 
+      institution: University of Birmingham, Birmingham, U.K.
+      year: 2018.09-2021.06
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 4.0/4.0, First-Class Honors
+        - Finished 3 out of 4 years
+        - International Scholarship Award (Highest Scholarship)
 
 - title: Experience
   type: time_table
