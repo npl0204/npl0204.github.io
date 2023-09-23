@@ -5,6 +5,7 @@ date: 2023-06-19 21:01:00
 tags: experience career
 categories: data-sci
 thumbnail: assets/img/7.png
+giscus_comments: true
 ---
 It can be discouraging to see job postings that require experience when you're just starting, but, there are still several things you can do to enhance your resume and stand out to potential employers. This is something I did before I got my first interview invitation.
 
