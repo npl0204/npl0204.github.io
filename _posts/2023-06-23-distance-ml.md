@@ -5,6 +5,7 @@ date: 2023-06-23 21:01:00
 tags: ml math technology modeling
 categories: data-sci
 thumbnail: assets/img/5.jpeg
+giscus_comments: true
 ---
 Today I learned 😂😂 I found this post on [LinkedIn](https://www.linkedin.com/posts/mehdihamedi_distances-machinelearning-distances-activity-7077582759099027457-Q4eh/) and I think this is helpful. In numerous real-world scenarios, ML algorithms are utilized for tasks like image classification, image recognition, and information retrieval based on image content. Selecting an appropriate distance metric plays a crucial role in these applications as it enables algorithms to identify similarities between different image contents. So, I believe that the better you understand the foundation of the ML models you use, the better you use them.
 
