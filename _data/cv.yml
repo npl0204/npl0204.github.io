@@ -62,9 +62,9 @@
       location: Hanoi, Vietnam
       year: 2021.06-2021.12
       description:
-        - Imported and pre-processed biological data of 13,000 participants into a SQL database and performed ETL process and exploratory data. 
+        - Imported and pre-processed biological data of 13,000 participants into an SQL database and performed ETL process and exploratory data. 
         - Designed machine learning models to predict the hospital length of stay (LOS) during COVID-19 based on pre-admission features in different hospitals and to predict the total number of cases by day in Vietnam based on previous data in multiple regions. 
-        - The LOS prediction model achieved 85% accuracy during pandemic’s peak period, assisting in changing hospital structure and management system, resulting in a decrease in healthcare-associated infection rate by 63% and an increase in hospital profit by 78% over 3 months.
+        - The LOS prediction model achieved 85% accuracy during the pandemic’s peak period, assisting in changing the hospital structure and management system, resulting in a decrease in healthcare-associated infection rate by 63% and an increase in hospital profit by 78% over 3 months.
     - title: Intern
       department: Vinmec International Hospital 
       location: Hanoi, Vietnam
@@ -78,6 +78,35 @@
       year: 2018.12-2021.12
       description:
         - Delivered 3000+ hours of tailored mathematics instruction to multiple levels, including KS3, GCSE, A-Level, and other qualifications.
+
+- title: Leadership and Activities
+  type: time_table
+  contents:
+    - title: Founder
+      department: Drexel Association for Data Science 
+      location: Philadelphia, PA
+      year: 2023.02-now
+      description:
+        - Collaborated with fellow co-founders to establish the association’s vision, mission, and goals, and developed a strategic plan. Actively engaged in networking with professors, mentors, and business partners to establish meaningful relationships and foster collaborative opportunities for members.
+    - title: <a href="https://drexel.edu/cci/academics/undergraduate-programs/deans-ambassadors/linh-nguyen/">Senior CCI Dean’s Ambassador</a>
+      institution: Drexel University  
+      location: Philadelphia, PA
+      year: 2022.09-now
+      description:
+        - Exemplified student leadership and community-building skills, representing Drexel University and advocating for the student body to various stakeholders (students, parents, partner schools, VIP guests, etc.). Developing valuable skills in public speaking, networking, marketing, and communications.
+   - title: President
+      department: Vietnamese Society of University of Birmingham 
+      location: Birmingham, UK
+      year: 2019-2021
+      description:
+        - Coordinated with Honorary Presidents and officers of the Embassy of S.R. Vietnam and 100+ members from other universities to organize events and support 12000+ Vietnamese students in the U.K. Collaborated with several societies to organize 10+ cultural events annually.
+    - title: Competitions Sub-committee and International Representative 
+      department: British Pharmaceutical Students’ Association 
+      location: Birmingham, UK
+      year: 2019-2021
+      description:
+        - Coordinated with 1000+ members from the British Pharmaceutical Students’ Association, European Pharmaceutical Students’ Association, and International Pharmaceutical Students' Federation to help international students prepare and take license examinations. 
+        - Promoted international events and projects; monthly managed programs; prepared and promoted the annual international conferences.
         
 - title: Technical Projects
   type: nested_list
