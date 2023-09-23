@@ -48,6 +48,13 @@
         - Developed AI/ML recommendation system for clinical/supply chain staff for Doctor Preference Cards (DPC) decision-making process based on analysis of complex data sets of over 55,000 DPC using statistical functions, PySpark, and SQL, preventing a potential $13.65M yearly loss of surgical savings.
         - Provided executive-level, data-driven insights and visualizations that replace Tableau by implementing a more effective analytic application. 
         - Designed baseline ML models to predict optimal physician DPC supplies purchase for perioperative procedures, expected to result in savings of $7M/year by reducing surgical supply spending, optimizing working capital, and reducing inventory spoilage.
+    - title: Research Assistant 
+      department: Rezapour Lab Drexel University 
+      location: Philadelphia, PA
+      year: 2022.06-now
+      description:
+        - Conducted data collection and analysis on social media to extract and investigate unstructured user-generated content, utilizing natural language processing ML models to classify characteristics of drug-related discussions for the baseline of an AI chatbot.
+        - Conducted in-depth research and analysis on computational social science, focusing on evaluating moral values in texts, optimism/pessimism detection, and methods for maintaining a positive sentiment in online communities.
 
         
 - title: Open Source Projects
