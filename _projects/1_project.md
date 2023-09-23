@@ -10,7 +10,7 @@ importance: 1
 - Please visit the project using this [link to my notebook](https://colab.research.google.com/drive/1toTysuD14OgQ2ZWOpBp9GFO4iaahBt57?usp=sharing).
 
 ## Details
-#### Project Description:
+### Project Description:
 - Brain tumors are becoming increasingly prevalent, posing a significant healthcare challenge.
 - This rising occurrence necessitates early detection for effective treatment.
 - Deep Learning can be used to analyze complex data and identify patterns for medical image analysis. 
@@ -18,13 +18,13 @@ importance: 1
 - Our project aims to contribute to the development of systems that can identify these fatal diseases in their initial stages. 
 - Our objective is to develop a precise deep learning model for accurate classification of brain MRI images with tumors to improve early detection of brain tumors, leading to better patient outcomes. 
 
-#### Contributions in the Project Domain 
+### Contributions in the Project Domain 
 - Synthesizing of contrasts using DL to correct distortions in MRI scans
 - Creating and leveraging several DL models like DeepBrainNet to construct accurate classifiers for brain diseases
 - Leveraging probabilistics labels for enhanced image-based diagnostics
 - Vast analysis of the current limitations, benefits and future prospects in Medical Imaging Diagnosis
 
-#### Project Goals and Benefits
+### Project Goals and Benefits
 1. Goals
    - Develop a deep learning model for accurate brain tumor classification.
    - Improve early detection and classification of brain tumors using advanced techniques.
@@ -35,7 +35,7 @@ importance: 1
    - Advancement in Research and Knowledge: Contributes to the knowledge base in brain tumor detection, fostering collaboration and advancements.
 
 ## Deep Learning and Explorations
-#### Project Components - Data Set
+### Project Components - Data Set
 The image data came from the [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) dataset. It consists of MRI scans of two classes, stored in separate files:
 - NO (98) - no tumor, encoded as 0
 - YES (155) - tumor, encoded as 1
@@ -51,14 +51,14 @@ The image data came from the [Brain MRI Images for Brain Tumor Detection](https:
     Combined the two files of classes into a single dataframe - tumor_df
 </div>
 
-#### Project Components - Preprocessing
+### Project Components - Preprocessing
 I set up data generators for image processing and augmentation using the Keras ImageDataGenerator. This technique allowed me to artificially increase the size of the training dataset and improve the generalization ability of my model. This, in turn, helped me address the problem of overfitting and made my model more robust, enabling it to handle different types of images.
 
 I used these data generators to provide augmented images in batches during model training, testing, and validation processes.
 
 With this approach, my model was able to learn from a wider range of examples, enabling it to perform well on new, unseen images.
 
-#### Deep Learning Models Used + Performance 
+### Deep Learning Models Used + Performance 
 I employed a range of deep learning models in my project, each serving a specific purpose:
 
 <div class="row">
@@ -91,7 +91,7 @@ I employed a range of deep learning models in my project, each serving a specifi
 
 In terms of performance, EfficientNet and InceptionV3 stood out as the top performers in my project, demonstrating their capability to excel in computer vision tasks and image-related challenges.
 
-#### Nest Steps
+### Nest Steps
 For fine-tuning and optimizing the model, I undertook the following steps:
 
 1. **Architectural Modifications:** I made adjustments to the model's architecture, including alterations to hyperparameters and regularization techniques, in order to enhance its performance.
