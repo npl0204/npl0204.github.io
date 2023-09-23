@@ -14,8 +14,8 @@ a.btncv {
   color: var(--global-text-color) !important;
   border: 1px solid var(--global-text-color) !important;
   border-radius: 0.125rem;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   text-decoration: none;
@@ -38,7 +38,7 @@ a.btncv:hover {
  *****************************/
 
 p.location {
-  font-size: 0.7rem;
+  font-size: 0.85rem;
   white-space: nowrap;
 }
 
@@ -142,6 +142,7 @@ td.list-group-school {
 
 p.list-group-time {
   font-size: 0.7rem;
+  margin-left: 0rem;
 }
 
 td.list-group-link {
