@@ -3,6 +3,7 @@ layout: post
 title:  Embracing Diversity - A Progressive Outlook on Gender in the Tech Field
 date: 2023-08-04 21:01:00
 categories: general
+giscus_comments: true
 ---
 Hey everyone, today I want to delve into a crucial topic that has been at the forefront of conversations within the tech industry – gender diversity. The world of technology has seen remarkable advancements, yet it remains predominantly male-dominated. In this post, I'd like to share my opinion on why embracing gender diversity is essential for the tech field's continued growth and success.
 
