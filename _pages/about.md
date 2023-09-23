@@ -31,4 +31,5 @@ In the words of Steve Jobs, "The people who are crazy enough to think they can c
 If you're on the lookout for a dynamic data professional with a penchant for crafting both code and crochet, let's connect! Whether it's to collaborate on a project, discuss the latest trends in data science, or just share crochet patterns, I'm always excited to connect with like-minded individuals. Reach out to me on [LinkedIn](https://linkedin.com/in/linhpn0204) or check out my projects on [GitHub](https://github.com/npl0204).
 
 Looking forward to our paths crossing,
+
 ♡ Linh ♡
