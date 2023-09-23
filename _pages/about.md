@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Linh Nguyen - Data Scientist
+subtitle: Data Scientist
 
 profile:
   align: right
