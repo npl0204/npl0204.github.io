@@ -5,6 +5,7 @@ date: 2023-07-07 21:01:00
 tags: experience career
 categories: data-sci
 thumbnail: assets/img/6.png
+giscus_comments: true
 ---
 I am incredibly grateful to have recently secured a co-op position as a data scientist with Oracle. Throughout my own experiences and insights gained during the interview and resume preparation process, I believe I can offer valuable advice to those who are currently in Round B or planning to apply for future internships or co-ops. However, I want to emphasize that everyone's path is unique, and success ultimately comes from a combination of hard work, preparation, and a touch of luck. With that in mind, let's dive into some tips that I think can maximize your chances of success (I'll skip general tips)!
 
