@@ -142,7 +142,7 @@ td.list-group-school {
 
 p.list-group-time {
   font-size: 0.7rem;
-  padding-left: 0.5rem;
+  padding-left: 0rem;
 }
 
 td.list-group-link {
@@ -163,10 +163,11 @@ a.anchor {
 ul.timeline {
   margin-top: 2rem;
   margin-bottom: 2rem;
+  margin-bottom: 0rem;
 }
 
 ul.timeline li {
-  position: relative;
+  position: left;
   min-height: 2.2rem;
   color: var(--global-text-color);
   list-style-position: inside;
@@ -191,6 +192,7 @@ ul.timeline li::before {
   padding: 0;
   position: absolute;
   top: -0.5rem;
+  left: 0rem;
 }
 
 /*ul.timeline::before {
