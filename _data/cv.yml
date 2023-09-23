@@ -12,14 +12,16 @@
   type: time_table
   contents:
     - title: B.S. in Data Science; minor in Computer Science
-      institution: Drexel University, Philadelphia, PA, USA
+      institution: Drexel University
+      location: Philadelphia, PA
       year: 2022.01-2024.09
       description:
         - scores: 4.0/4.0, Dean’s List
         - GHC 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
         - Teaching Assistant (20 hrs/week) for Data Science Programming (INFO 212) and Database Management Systems (INFO 210)
     - title: Bachelor of Pharmacy 
-      institution: University of Birmingham, Birmingham, U.K.
+      institution: University of Birmingham
+      location: Birmingham, UK
       year: 2018.09-2021.06
       description:
         - GPA 4.0/4.0, First-Class Honors
@@ -70,7 +72,13 @@
       description:
         - Devised deployment plan of Vinmec online pharmacy service. Worked as project manager and collaborated with 3+ application/website developers.
         - Analyzed data on customers’ behavior and the sales between the traditional and online pharmacies in two months using NumPy and Pandas and visualized the result using Tableau, resulting in an increase in sales of 125% compared to before the campaign. 
-
+    - title: <a href="https://tutorful.co.uk/tutors/wx3k6qwx">Math Tutor</a>
+      department: Tutorful
+      location: Birmingham, UK
+      year: 2018.12-2021.12
+      description:
+        - Delivered 3000+ hours of tailored mathematics instruction to multiple levels, including KS3, GCSE, A-Level, and other qualifications.
+        
 - title: Technical Projects
   type: nested_list
   contents:
