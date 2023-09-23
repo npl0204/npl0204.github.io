@@ -16,7 +16,7 @@
       location: Philadelphia, PA
       year: 2022.01-2024.09
       description:
-        - scores: 4.0/4.0, Dean’s List
+        - GPA 4.0/4.0, Dean’s List
         - GHC 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
         - Teaching Assistant (20 hrs/week) for Data Science Programming (INFO 212) and Database Management Systems (INFO 210)
     - title: Bachelor of Pharmacy 
@@ -82,20 +82,20 @@
 - title: Technical Projects
   type: nested_list
   contents:
-    - title: Fake News Detection <u>Text-Processing and Natural Language Processing</u>
+    - title: Fake News Detection <i>Text-Processing and Natural Language Processing</i>
       items: 
         - Led a team of four to develop an efficient NLP model to predict the authenticity of 72,134 online news articles.
         - Performed text preprocessing such as removing noise, tokenization, lemmatization, performing TF-IDF, etc.
         - Examined seven Neural Network models (with Long Short-Term Memory) achieved the highest accuracy (94.51%) and F1 (94.71%) scores.
-    - title: Brain Tumor Detection from MRI Images <u>Image-processing and Deep Learning</u>
+    - title: Brain Tumor Detection from MRI Images <i>Image-processing and Deep Learning</i>
       items: 
         - Developed deep learning models for brain tumor detection using MRI images by employing MLP, CNN, VGG16, EfficientNet B2, and InceptionV3 models. Achieved the best performance using InceptionV3 with an F1 score of 93.55% and an accuracy score of 94.74%.
         - Performed pre-processing using data generators for image processing and augmentation with the ImageDataGenerator. 
-    - title: Credit Card Default Classification <u>Data Mining and Machine Learning</u>	
+    - title: Credit Card Default Classification <i>Data Mining and Machine Learning</i>	
       items:
         - Performed EDA to visualize/investigate the dataset, and built classification models using Scikit-learn, PyTorch, and Matplotlib.
         - Improved the F1 score of a simple Logistic Regression from 0% to 54.62% with an accuracy of 80.33% by tuning the decision threshold and other hyperparameters of the Extreme Gradient Boosting (XGBoost) model.
-    - title: Salary Prediction <u>Regression Prediction</u>	
+    - title: Salary Prediction <i>Regression Prediction</i>	
       items:
         - Mined and cleaned data from over 1 million records using SparkML and SparkSQL following the ETL process and Label Encoding method.
         - Built and trained 5 regression machine learning models to predict the salary to find the best-predicted salary model based on backgrounds by comparing RMSE and R-squared scores. The model with the best scores has an R-squared of 74.88%.
