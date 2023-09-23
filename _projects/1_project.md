@@ -3,6 +3,7 @@ layout: page
 title: Brain Tumor Detection from MRI Images with Deep Learning
 img: assets/img/10.png
 importance: 1
+giscus_comments: true
 ---
 ## Overview
 - Developed deep learning models for brain tumor detection using MRI images by employing MLP, CNN, VGG16, EfficientNet B2, and InceptionV3 models. Achieved the best performance using InceptionV3 with an F1 score of 93.55% and an accuracy score of 94.74%.
@@ -10,7 +11,7 @@ importance: 1
 - Please visit the project using this [link to my notebook](https://colab.research.google.com/drive/1toTysuD14OgQ2ZWOpBp9GFO4iaahBt57?usp=sharing).
 
 ## Details
-### Project Description:
+### Project Description
 - Brain tumors are becoming increasingly prevalent, posing a significant healthcare challenge.
 - This rising occurrence necessitates early detection for effective treatment.
 - Deep Learning can be used to analyze complex data and identify patterns for medical image analysis. 
