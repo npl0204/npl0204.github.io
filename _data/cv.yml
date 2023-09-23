@@ -2,79 +2,65 @@
   type: map
   contents:
     - name: Full Name
-      value: Linh P. Nguyen
+      value: Albert Einstein
     - name: Date of Birth
-      value: April 2nd, 2000
-    - name: Skills
-      value: Python, SQL, R, Java, C, Dart, MVC, Microsoft Excel, Tableau, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: B.S. in Data Science; minor in Computer Science
-      institution: Drexel University, Philadelphia, PA, USA
-      year: 2022.01-2024.09
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - scores: 4.0/4.0, Dean’s List
-        - GHC 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
-        - Teaching Assistant (20 hrs/week) for Data Science Programming (INFO 212) and Database Management Systems (INFO 210)
-    - title: Bachelor of Pharmacy 
-      institution: University of Birmingham, Birmingham, U.K.
-      year: 2018.09-2021.06
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - GPA 4.0/4.0, First-Class Honors
-        - Finished 3 out of 4 years
-        - International Scholarship Award (Highest Scholarship)
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist Co-op
-      department: Oracle 
-      location: Remote, PA
-      year: 2023.09-now
-    - title: Software Development Engineer Intern
-      department: Amazon (Sunnyvale, CA)
-      year: 2023.06-2023.09
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Created a JIRA-enhancing tool to optimize task automation and workflow efficiency. The product is currently in use, contributing to improved efficiency in project management and communication within the organization. Utilized AWS DynamoDB for data transformation, harnessed AWS EventBridge, Lambda, and SES for automation. Employed Java for backend development, MVC with JSP for front end, and Coral Services for API integration.
-        - Developed new functions for existing packages and seamlessly integrated them into Native AWS products using Java and AWS external/internal tools.
-    - title: Software Development Engineer Intern
-      department: Intermountain Health 
-      location: Salt Lake City, UT
-      year: 2023.01-2023.03
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-        - Developed AI/ML recommendation system for clinical/supply chain staff for Doctor Preference Cards (DPC) decision-making process based on analysis of complex data sets of over 55,000 DPC using statistical functions, PySpark, and SQL, preventing a potential $13.65M yearly loss of surgical savings.
-        - Provided executive-level, data-driven insights and visualizations that replace Tableau by implementing a more effective analytic application. 
-        - Designed baseline ML models to predict optimal physician DPC supplies purchase for perioperative procedures, expected to result in savings of $7M/year by reducing surgical supply spending, optimizing working capital, and reducing inventory spoilage.
-    - title: Research Assistant 
-      department: Rezapour Lab Drexel University 
-      location: Philadelphia, PA
-      year: 2022.06-now
+        - Description 1.
+        - Description 2.
+
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - Conducted data collection and analysis on social media to extract and investigate unstructured user-generated content, utilizing natural language processing ML models to classify characteristics of drug-related discussions for the baseline of an AI chatbot.
-        - Conducted in-depth research and analysis on computational social science, focusing on evaluating moral values in texts, optimism/pessimism detection, and methods for maintaining a positive sentiment in online communities.
-    - title: Data Analyst Intern
-      department: Vietnam Ministry of Health – Nanocovax Vaccine (Phase II and III)
-      location: Hanoi, Vietnam
-      year: 2021.06-2021.12
-      description:
-        - Imported and pre-processed biological data of 13,000 participants into a SQL database and performed ETL process and exploratory data. 
-        - Designed machine learning models to predict the hospital length of stay (LOS) during COVID-19 based on pre-admission features in different hospitals and to predict the total number of cases by day in Vietnam based on previous data in multiple regions. 
-        - The LOS prediction model achieved 85% accuracy during pandemic’s peak period, assisting in changing hospital structure and management system, resulting in a decrease in healthcare-associated infection rate by 63% and an increase in hospital profit by 78% over 3 months.
-   - title: Intern
-      department: Vinmec International Hospital 
-      location: Hanoi, Vietnam
-      year: 2021.06-2021.12
-      description:
-        - Devised deployment plan of Vinmec online pharmacy service. Worked as project manager and collaborated with 3+ application/website developers.
-        - Analyzed data on customers’ behavior and the sales between the traditional and online pharmacies in two months using NumPy and Pandas and visualized the result using Tableau, resulting in an increase in sales of 125% compared to before the campaign. 
-    - title: <a href="https://tutorful.co.uk/tutors/wx3k6qwx">Math Tutor</a>
-      department: Tutorful
-      location: Birmingham, UK
-      year: 2018.12-2021.12
-      description:
-        - Delivered 3000+ hours of tailored mathematics instruction to multiple levels, including KS3, GCSE, A-Level, and other qualifications.
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
 - title: Open Source Projects
   type: time_table
   contents:
