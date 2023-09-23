@@ -4,7 +4,7 @@
     - name: Full Name
       value: Linh P. Nguyen
     - name: Date of Birth
-      value: 2nd April 2000
+      value: April 2nd, 2000
     - name: Skills
       value: Python, SQL, R, Java, C, Dart, MVC, Microsoft Excel, Tableau, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
 
@@ -31,59 +31,68 @@
   contents:
     - title: Data Scientist Co-op
       department: Oracle 
-      location: (Remote, PA)
-      year: 2023.09-present
+      location: Remote, PA
+      year: 2023.09-now
     - title: Software Development Engineer Intern
       department: Amazon (Sunnyvale, CA)
       year: 2023.06-2023.09
       description:
         - Created a JIRA-enhancing tool to optimize task automation and workflow efficiency. The product is currently in use, contributing to improved efficiency in project management and communication within the organization. Utilized AWS DynamoDB for data transformation, harnessed AWS EventBridge, Lambda, and SES for automation. Employed Java for backend development, MVC with JSP for front end, and Coral Services for API integration.
         - Developed new functions for existing packages and seamlessly integrated them into Native AWS products using Java and AWS external/internal tools.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Development Engineer Intern
+      department: Intermountain Health 
+      location: Salt Lake City, UT
+      year: 2023.01-2023.03
       description:
+        - Developed AI/ML recommendation system for clinical/supply chain staff for Doctor Preference Cards (DPC) decision-making process based on analysis of complex data sets of over 55,000 DPC using statistical functions, PySpark, and SQL, preventing a potential $13.65M yearly loss of surgical savings.
+        - Provided executive-level, data-driven insights and visualizations that replace Tableau by implementing a more effective analytic application. 
+        - Designed baseline ML models to predict optimal physician DPC supplies purchase for perioperative procedures, expected to result in savings of $7M/year by reducing surgical supply spending, optimizing working capital, and reducing inventory spoilage.
+    - title: Research Assistant 
+      department: Rezapour Lab Drexel University 
+      location: Philadelphia, PA
+      year: 2022.06-now
+      description:
+        - Conducted data collection and analysis on social media to extract and investigate unstructured user-generated content, utilizing natural language processing ML models to classify characteristics of drug-related discussions for the baseline of an AI chatbot.
+        - Conducted in-depth research and analysis on computational social science, focusing on evaluating moral values in texts, optimism/pessimism detection, and methods for maintaining a positive sentiment in online communities.
+    - title: Data Analyst Intern
+      department: Vietnam Ministry of Health – Nanocovax Vaccine (Phase II and III)
+      location: Hanoi, Vietnam
+      year: 2021.06-2021.12
+      description:
+        - Imported and pre-processed biological data of 13,000 participants into a SQL database and performed ETL process and exploratory data. 
+        - Designed machine learning models to predict the hospital length of stay (LOS) during COVID-19 based on pre-admission features in different hospitals and to predict the total number of cases by day in Vietnam based on previous data in multiple regions. 
+        - The LOS prediction model achieved 85% accuracy during pandemic’s peak period, assisting in changing hospital structure and management system, resulting in a decrease in healthcare-associated infection rate by 63% and an increase in hospital profit by 78% over 3 months.
+   - title: Intern
+      department: Vinmec International Hospital 
+      location: Hanoi, Vietnam
+      year: 2021.06-2021.12
+      description:
+        - Devised deployment plan of Vinmec online pharmacy service. Worked as project manager and collaborated with 3+ application/website developers.
+        - Analyzed data on customers’ behavior and the sales between the traditional and online pharmacies in two months using NumPy and Pandas and visualized the result using Tableau, resulting in an increase in sales of 125% compared to before the campaign. 
+    - title: <a href="https://tutorful.co.uk/tutors/wx3k6qwx">Math Tutor</a>
+      department: Tutorful
+      location: Birmingham, UK
+      year: 2018.12-2021.12
+      description:
+        - Delivered 3000+ hours of tailored mathematics instruction to multiple levels, including KS3, GCSE, A-Level, and other qualifications.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Technical Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Fake News Detection – Text-Processing and Natural Language Processing
+      description: 
+        - Led a team of four to develop an efficient NLP model to predict the authenticity of 72,134 online news articles.
+        - Performed text preprocessing such as removing noise, tokenization, lemmatization, performing TF-IDF, etc.
+        - Examined seven Neural Network models (with Long Short-Term Memory) achieved the highest accuracy (94.51%) and F1 (94.71%) scores.
+    - title: Brain Tumor Detection from MRI Images – Image-processing and Deep Learning	
+      description: 
+        - Developed deep learning models for brain tumor detection using MRI images by employing MLP, CNN, VGG16, EfficientNet B2, and InceptionV3 models. Achieved the best performance using InceptionV3 with an F1 score of 93.55% and an accuracy score of 94.74%.
+        - Performed pre-processing using data generators for image processing and augmentation with the ImageDataGenerator. 
+    - title: Credit Card Default Classification – Data Mining and Machine Learning	
+      description:
+        - Performed EDA to visualize/investigate the dataset, and built classification models using Scikit-learn, PyTorch, and Matplotlib.
+        - Improved the F1 score of a simple Logistic Regression from 0% to 54.62% with an accuracy of 80.33% by tuning the decision threshold and other hyperparameters of the Extreme Gradient Boosting (XGBoost) model.
+    - title: Salary Prediction – Regression Prediction	
+      description:
+        - Mined and cleaned data from over 1 million records using SparkML and SparkSQL following the ETL process and Label Encoding method.
+        - Built and trained 5 regression machine learning models to predict the salary to find the best-predicted salary model based on backgrounds by comparing RMSE and R-squared scores. The model with the best scores has an R-squared of 74.88%.
