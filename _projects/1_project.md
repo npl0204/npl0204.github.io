@@ -1,81 +1,56 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Brain Tumor Detection from MRI Images with Deep Learning
+img: assets/img/10.png
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
+## Overview
+- Developed deep learning models for brain tumor detection using MRI images by employing MLP, CNN, VGG16, EfficientNet B2, and InceptionV3 models. Achieved the best performance using InceptionV3 with an F1 score of 93.55% and an accuracy score of 94.74%.
+- Performed pre-processing using data generators for image processing and augmentation with the ImageDataGenerator.
+- Please visit the project using this [link to my notebook](https://colab.research.google.com/drive/1toTysuD14OgQ2ZWOpBp9GFO4iaahBt57?usp=sharing).
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Details
+#### Project Description:
+- Brain tumors are becoming increasingly prevalent, posing a significant healthcare challenge.
+- This rising occurrence necessitates early detection for effective treatment.
+- Deep Learning can be used to analyze complex data and identify patterns for medical image analysis. 
+- It can be leveraged to enhance accuracy, speed, and efficiency in diagnosing diseases.  
+- Our project aims to contribute to the development of systems that can identify these fatal diseases in their initial stages. 
+- Our objective is to develop a precise deep learning model for accurate classification of brain MRI images with tumors to improve early detection of brain tumors, leading to better patient outcomes. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+#### Contributions in the Project Domain 
+- Synthesizing of contrasts using DL to correct distortions in MRI scans
+- Creating and leveraging several DL models like DeepBrainNet to construct accurate classifiers for brain diseases
+- Leveraging probabilistics labels for enhanced image-based diagnostics
+- Vast analysis of the current limitations, benefits and future prospects in Medical Imaging Diagnosis
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+#### Project Goals and Benefits
+1. Goals
+   - Develop a deep learning model for accurate brain tumor classification.
+   - Improve early detection and classification of brain tumors using advanced techniques.
+2. Benefits
+   - Better Patient Outcomes: Early detection and accurate classification enable timely intervention and tailored treatment plans.
+   - Enhanced Healthcare Efficiency: Early detection reduces invasive procedures, healthcare costs, and optimizes resource allocation.
+   - Empowering Healthcare Providers: Reliable deep learning model assists in accurate diagnoses, reducing manual analysis burden.
+   - Advancement in Research and Knowledge: Contributes to the knowledge base in brain tumor detection, fostering collaboration and advancements.
 
-<div class="row">
+## Deep Learning and Explorations
+#### Project Components - Data Set
+The image data came from the [Brain MRI Images for Brain Tumor Detection](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) dataset. It consists of MRI scans of two classes, stored in separate files:
+- NO (98) - no tumor, encoded as 0
+- YES (155) - tumor, encoded as 1
+<div class="col">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/9.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/8.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Combined the two files of classes into a single dataframe - tumor_df
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+#### 
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
