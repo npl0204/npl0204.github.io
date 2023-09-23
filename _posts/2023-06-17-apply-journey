@@ -1,0 +1,25 @@
+---
+layout: post
+title:  Challenges in Job Hunt
+date: 2023-06-17 21:01:00
+tags: career
+categories: general
+thumbnail: assets/img/3.webp
+---
+I wanted to share a personal thought with you all about my journey in applying for DS/DA/DE jobs. I think it's important for us to be open and honest about the challenges we face, so that we can support each other and realize that we're not alone in this process.
+
+1. **Require MS/PhD**: When I first started applying for data science positions, I quickly realized that many of the open roles required a master's or PhD degree. As someone who didn't have those qualifications yet, it felt intimidating. I knew that competition would be fierce, and I was worried about how I would stand out among candidates with more experience and higher degrees. 
+2. **Ghosted by companies**: I submitted countless applications (probably 1000+) and rarely hear back from the companies I applied to. It was disheartening and made me doubt my abilities. I began questioning if there were weaknesses in my resume that I hadn't identified, causing recruiters to overlook me. But it's important to remember that this is a common experience for many job seekers, and it doesn't necessarily reflect our skills or potential.
+3. **Tech interviews**: I had no idea what companies were looking for or what to expect, it's not just grinding LeetCode, since the topics covered in these interviews were so vast and varied: data scientist, data analyst, data engineer, or machine learning engineer. And many times, you may come across a DS role that asks you questions more aligned with DE.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+I wanted to share this story with you all to let you know that the difficulties we face in the job application process are normal. It's easy to get discouraged, but remember that everyone goes through similar challenges. It's important to support and encourage one another. 
+
+I really hope that we can hear more tips or success stories from people in this server. But keep in mind this: Keep working on your skills, keep improving your resume, keep applying, and keep pushing forward. 
+
+Happy weekend!!!
