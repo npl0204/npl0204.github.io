@@ -1,4 +1,3 @@
-        
 ---
 layout: post
 title:  Embracing Diversity: A Progressive Outlook on Gender in the Tech Field
