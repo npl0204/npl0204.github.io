@@ -77,7 +77,7 @@
         - Delivered 3000+ hours of tailored mathematics instruction to multiple levels, including KS3, GCSE, A-Level, and other qualifications.
 
 - title: Technical Projects
-  type: time_table
+  type: nested_list
   contents:
     - title: Fake News Detection – Text-Processing and Natural Language Processing
       description: 
