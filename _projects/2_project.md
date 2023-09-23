@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brain Tumor Detection from MRI Images with Deep Learning
+title: Fake News Detection
 img: assets/img/15.jpeg
 importance: 2
 giscus_comments: true
@@ -89,7 +89,7 @@ In detail, the Neural Network model's accuracy and F1 scores were approximately 
     </div>
 </div>
 <div class="caption">
-    Models Comparisons of 70/30 Split and 80/20 Split
+    Models Comparisons
 </div>
 
 Overall, while our models achieved commendable outcomes in terms of accuracy and F1 scores, overfitting was identified as an issue in many models. Future endeavors will focus on refining our approach by fine-tuning hyperparameters, exploring different word embeddings, and testing advanced pre-trained models like Transformer and BERT. Additionally, to validate our findings and methods, we plan to test the algorithm on new datasets and revisit our initial preprocessing and data exploration stages.
