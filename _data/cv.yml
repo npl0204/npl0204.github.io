@@ -63,7 +63,14 @@
         - Imported and pre-processed biological data of 13,000 participants into a SQL database and performed ETL process and exploratory data. 
         - Designed machine learning models to predict the hospital length of stay (LOS) during COVID-19 based on pre-admission features in different hospitals and to predict the total number of cases by day in Vietnam based on previous data in multiple regions. 
         - The LOS prediction model achieved 85% accuracy during pandemic’s peak period, assisting in changing hospital structure and management system, resulting in a decrease in healthcare-associated infection rate by 63% and an increase in hospital profit by 78% over 3 months.
-        
+    - title: Intern
+      department: Vinmec International Hospital 
+      location: Hanoi, Vietnam
+      year: 2021.06-2021.12
+      description:
+        - Devised deployment plan of Vinmec online pharmacy service. Worked as project manager and collaborated with 3+ application/website developers.
+        - Analyzed data on customers’ behavior and the sales between the traditional and online pharmacies in two months using NumPy and Pandas and visualized the result using Tableau, resulting in an increase in sales of 125% compared to before the campaign. 
+
 - title: Technical Projects
   type: nested_list
   contents:
