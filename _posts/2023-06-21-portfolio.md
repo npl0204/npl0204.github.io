@@ -5,6 +5,7 @@ date: 2023-06-21 21:01:00
 tags: education career project general
 categories: general
 thumbnail: assets/img/2.jpeg
+giscus_comments: true
 ---
 Today I want to talk about building an impressive portfolio since it is essential for showcasing your skills and experience. So, let's dive into the key takeaways for creating an outstanding portfolio project!
 
