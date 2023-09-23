@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Embracing Diversity: A Progressive Outlook on Gender in the Tech Field
+title:  Embracing Diversity - A Progressive Outlook on Gender in the Tech Field
 date: 2023-08-04 21:01:00
 categories: general
 ---
