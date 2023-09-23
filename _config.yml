@@ -257,7 +257,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['data-sci', 'career', 'general', 'projects', 'technology', 'code'] # these tags will be displayed on the front page of your blog
+display_tags: ['career', 'projects', 'technology', 'code']
+display_categories: ['general', 'resources', 'data-sci']
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
