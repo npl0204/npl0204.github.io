@@ -3,7 +3,7 @@ layout: page
 title: LSTM Time Series Knowledge
 description: briefly talk about LSTM time series with example
 img: assets/img/21.png
-importance: 5
+importance: 4
 giscus_comments: true
 ---
 ## LSTM
