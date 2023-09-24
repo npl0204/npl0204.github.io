@@ -10,7 +10,7 @@ description: project utilizes natural language processing and machine learning m
 - Led a team of four to develop an efficient NLP model to predict the authenticity of 72,134 online news articles.
 - Performed text preprocessing such as removing noise, tokenization, lemmatization, performing TF-IDF, etc.
 - Examined seven Neural Network models (with Long Short-Term Memory) achieved the highest accuracy (94.51%) and F1 (94.71%) scores.
-- Please visit the project using this [link to my notebook](https://drive.google.com/file/d/1OfMiaONZ3jVB1x4l0uJKjn4qcrSGs-dv/view?usp=sharing).
+- Please visit the project with Google Colab Notebook using this [link to my notebook](https://drive.google.com/file/d/1OfMiaONZ3jVB1x4l0uJKjn4qcrSGs-dv/view?usp=sharing).
 
 ## Details
 ### Project Proposal
@@ -44,7 +44,7 @@ In the data pre-processing stage:
 
 ### Modeling
 **Natural Language Processing Models - Pre-Training Algorithm**
-- Two pre-training algorithms, Count Vectorizer and TF-IDF Vectorizer, are utilized to turn textual data into vectors.
+- Two pre-training algorithms, Count Vectorizer, and TF-IDF Vectorizer, are utilized to turn textual data into vectors.
 - Count Vectorizer tokenizes and creates a vocabulary from text documents.
 - TF-IDF Vectorizer calculates term frequency-inverse document frequency values for words.
 - For Neural Networks, Word2Vec Vectorizer is used. Word2Vec predicts words in context using two architectures: Continuous Bag of Words (CBOW) and Skip Gram.
@@ -76,7 +76,7 @@ Addressing issues in regular neural networks, LSTMs provide better performance. 
 
 In essence, various models were trained with different pre-processing techniques to classify news items. They showed high accuracy and F1 scores, suggesting reliable performance.
 
-### Results and Conlusion
+### Results and Conclusion
 Our study revealed that the Neural Network model was the top performer, achieving the highest accuracy and F1 score, with SVM following closely behind. In contrast, the Multinomial Naive Bayes model lagged behind the others in performance. The Gradient Boosting Classifier and Neural Network models demonstrated good resistance to overfitting. When comparing dataset splits, the 80/20 ratio yielded superior results over the 70/30 split. Impressively, almost all models achieved accuracy and F1 scores above 90%. 
 
 In detail, the Neural Network model's accuracy and F1 scores were approximately 95.90% and 96.10%, respectively, with negligible differences between training and testing scores. The Multinomial Naive Bayes model, however, displayed significant overfitting and lower scores, particularly when comparing training and testing results with the two vectorizers.
