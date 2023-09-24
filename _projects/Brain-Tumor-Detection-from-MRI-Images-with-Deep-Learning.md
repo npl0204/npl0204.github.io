@@ -9,7 +9,7 @@ description: project employs MRIs to predict and categorize brain tumor types, u
 ## Overview
 - Developed deep learning models for brain tumor detection using MRI images by employing MLP, CNN, VGG16, EfficientNet B2, and InceptionV3 models. Achieved the best performance using InceptionV3 with an F1 score of 93.55% and an accuracy score of 94.74%.
 - Performed pre-processing using data generators for image processing and augmentation with the ImageDataGenerator.
-- Please visit the project using this [link to my notebook](https://colab.research.google.com/drive/1toTysuD14OgQ2ZWOpBp9GFO4iaahBt57?usp=sharing).
+- Please visit the project with Google Colab Notebook using this [link to my notebook](https://colab.research.google.com/drive/1toTysuD14OgQ2ZWOpBp9GFO4iaahBt57?usp=sharing).
 
 ## Details
 ### Project Description
@@ -18,13 +18,13 @@ description: project employs MRIs to predict and categorize brain tumor types, u
 - Deep Learning can be used to analyze complex data and identify patterns for medical image analysis. 
 - It can be leveraged to enhance accuracy, speed, and efficiency in diagnosing diseases.  
 - Our project aims to contribute to the development of systems that can identify these fatal diseases in their initial stages. 
-- Our objective is to develop a precise deep learning model for accurate classification of brain MRI images with tumors to improve early detection of brain tumors, leading to better patient outcomes. 
+- Our objective is to develop a precise deep-learning model for accurate classification of brain MRI images with tumors to improve early detection of brain tumors, leading to better patient outcomes. 
 
 ### Contributions in the Project Domain 
 - Synthesizing of contrasts using DL to correct distortions in MRI scans
 - Creating and leveraging several DL models like DeepBrainNet to construct accurate classifiers for brain diseases
-- Leveraging probabilistics labels for enhanced image-based diagnostics
-- Vast analysis of the current limitations, benefits and future prospects in Medical Imaging Diagnosis
+- Leveraging probabilistic labels for enhanced image-based diagnostics
+- Vast analysis of the current limitations, benefits, and future prospects in Medical Imaging Diagnosis
 
 ### Project Goals and Benefits
 1. Goals
@@ -32,8 +32,8 @@ description: project employs MRIs to predict and categorize brain tumor types, u
    - Improve early detection and classification of brain tumors using advanced techniques.
 2. Benefits
    - Better Patient Outcomes: Early detection and accurate classification enable timely intervention and tailored treatment plans.
-   - Enhanced Healthcare Efficiency: Early detection reduces invasive procedures, healthcare costs, and optimizes resource allocation.
-   - Empowering Healthcare Providers: Reliable deep learning model assists in accurate diagnoses, reducing manual analysis burden.
+   - Enhanced Healthcare Efficiency: Early detection reduces invasive procedures, and healthcare costs, and optimizes resource allocation.
+   - Empowering Healthcare Providers: A reliable deep learning model assists in accurate diagnoses, reducing manual analysis burden.
    - Advancement in Research and Knowledge: Contributes to the knowledge base in brain tumor detection, fostering collaboration and advancements.
 
 ## Deep Learning and Explorations
@@ -50,7 +50,7 @@ The image data came from the [Brain MRI Images for Brain Tumor Detection](https:
     </div>
 </div>
 <div class="caption">
-    Combined the two files of classes into a single dataframe - tumor_df
+    Combined the two files of classes into a single data frame - tumor_df
 </div>
 
 ### Project Components - Preprocessing
