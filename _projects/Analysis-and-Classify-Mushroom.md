@@ -2,7 +2,7 @@
 layout: page
 title: Analysis and Classify Mushroom
 img: assets/img/24.gif
-importance: 5
+importance: 6
 giscus_comments: true
 ---
 ## Overview
