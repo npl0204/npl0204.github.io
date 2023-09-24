@@ -4,6 +4,7 @@ title: Fake News Detection
 img: assets/img/15.jpeg
 importance: 2
 giscus_comments: true
+description: project utilizes natural language processing and machine learning models to distinguish between authentic and fraudulent news articles, analyzing performance metrics and overfitting concerns
 ---
 ## Overview
 - Led a team of four to develop an efficient NLP model to predict the authenticity of 72,134 online news articles.
