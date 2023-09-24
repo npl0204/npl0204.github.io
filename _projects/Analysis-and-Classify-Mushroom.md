@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Analysis and Classify Mushroom
-img: assets/img/23.jpeg
+img: assets/img/24.gif
 importance: 5
 giscus_comments: true
-description: project employs MRIs to predict and categorize brain tumor types, utilizing various machine learning models, image preprocessing techniques, and data augmentation
 ---
 ## Overview
 - Pre-processed and analyzed more than 60,000 records of 173 species (353 mushrooms per species) mushrooms with caps.
