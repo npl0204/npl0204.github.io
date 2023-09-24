@@ -6,7 +6,7 @@ img: assets/img/21.png
 importance: 4
 giscus_comments: true
 ---
-## LSTM
+## **LSTM**
 #### **LSTM** is a variant of RNN used in deep learning, and can be used LSTMs when working on sequences of data.
 * Time series forecasting (for example, stock prediction)
 * Text generation
@@ -61,5 +61,5 @@ giscus_comments: true
 * Learning rate: Setting a higher learning rate accelerates the learning but the model may not converge. Conversely, a lower rate will slow down the learning drastically as steps towards the minimum of loss function will be tiny but will allow the model to converge smoothly.
 * Batch size: Large sizes make large gradient steps compared to smaller ones for the same number of samples “seen”.
 
-## LSTM RNN Beer Wine and Distilled Alcoholic Beverages Sales
+## **LSTM RNN Beer Wine and Distilled Alcoholic Beverages Sales**
 [An example project](https://colab.research.google.com/drive/1LuKKgHzgzxYDxnGdaNpC3EXgxU1XzS47?usp=sharing) (please use Google Colab Notebook) employed LSTM time series RNN to forecast wine prices, leveraging the temporal patterns in historical wine pricing data
