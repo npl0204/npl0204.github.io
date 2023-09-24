@@ -31,7 +31,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Data Scientist Co-op
+    - title: Data Scientist Co-Op
       department: Oracle 
       location: Remote, PA
       year: 2023.09-now
@@ -42,14 +42,14 @@
       description:
         - Created a JIRA-enhancing tool to optimize task automation and workflow efficiency. The product is currently in use, contributing to improved efficiency in project management and communication within the organization. Utilized AWS DynamoDB for data transformation, harnessed AWS EventBridge, Lambda, and SES for automation. Employed Java for backend development, MVC with JSP for front end, and Coral Services for API integration.
         - Developed new functions for existing packages and seamlessly integrated them into Native AWS products using Java and AWS external/internal tools.
-    - title: Software Development Engineer Intern
+    - title: Data Scientist Intern
       department: Intermountain Health 
       location: Salt Lake City, UT
       year: 2023.01-2023.03
       description:
         - Developed AI/ML recommendation system for clinical/supply chain staff for Doctor Preference Cards (DPC) decision-making process based on analysis of complex data sets of over 55,000 DPC using statistical functions, PySpark, and SQL, preventing a potential $13.65M yearly loss of surgical savings.
         - Provided executive-level, data-driven insights and visualizations that replace Tableau by implementing a more effective analytic application. 
-        - Designed baseline ML models to predict optimal physician DPC supplies purchase for perioperative procedures, expected to result in savings of $7M/year by reducing surgical supply spending, optimizing working capital, and reducing inventory spoilage.
+        - Designed baseline ML models to predict optimal supplies purchase for perioperative procedures, expected to result in savings of $7M/year by reducing surgical supply spending, optimizing working capital, and reducing inventory spoilage.
     - title: Research Assistant 
       department: Rezapour Lab Drexel University 
       location: Philadelphia, PA
