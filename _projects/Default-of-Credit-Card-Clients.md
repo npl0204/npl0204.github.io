@@ -2,7 +2,7 @@
 layout: page
 title: Default of Credit Card Clients
 img: assets/img/22.jpeg
-importance: 4
+importance: 5
 giscus_comments: true
 description: project employs MRIs to predict and categorize brain tumor types, utilizing various machine learning models, image preprocessing techniques, and data augmentation
 ---
