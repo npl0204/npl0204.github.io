@@ -73,13 +73,11 @@ I employed a range of deep learning models in my project, each serving a specifi
 2. **CNN (Convolutional Neural Network):** For image processing tasks, I turned to CNN, a well-established choice known for its effectiveness in handling visual data.
 3. **VGG16:** This model was specifically chosen for image classification tasks, as it has a proven track record of achieving high accuracy in this domain.
 4. **EfficientNetB2:** My project benefited from the impressive performance of EfficientNetB2. This member of the EfficientNet family offers improved accuracy and efficiency for image-related training tasks. It utilizes a novel scaling technique that uniformly adjusts network dimensions, including width, depth, and image resolution, resulting in optimal performance without the need for manual tuning.
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/12.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 5. **InceptionV3:** To further enhance image recognition capabilities, I employed InceptionV3. This advanced model incorporates a variety of building blocks and techniques to achieve outstanding performance. Its architecture features both symmetric and asymmetric building blocks, including convolutional layers, average pooling, max pooling, concatenations, dropouts, and fully connected layers. The extensive use of batch normalization enhances stability and speeds up the training process. Moreover, InceptionV3 employs the softmax function for loss computation, a crucial component in multi-class classification tasks like image recognition.
 
 <div class="row">
