@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Linh P. Nguyen
-    - name: Date of Birth
-      value: April 2nd, 2000
     - name: Skills
       value: Python, SQL, R, Java, C, Dart, MVC, Microsoft Excel, Tableau, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
 
