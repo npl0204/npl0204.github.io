@@ -9,4 +9,4 @@ description: project employs MRIs to predict and categorize brain tumor types, u
 ## Overview
 - Performed EDA to visualize/investigate the dataset, and built classification models using Scikit-learn, PyTorch, and Matplotlib.
 - Improved the F1 score of a simple Logistic Regression from 0% to 54.62% with an accuracy of 80.33% by tuning the decision threshold and other hyperparameters of the Extreme Gradient Boosting (XGBoost) model.
-- Please visit the project with Google Colab Notebook using this [link to my notebook](https://colab.research.google.com/drive/1toTysuD14OgQ2ZWOpBp9GFO4iaahBt57?usp=sharing).
+- Please visit the project with Google Colab Notebook using this [link to my notebook](https://colab.research.google.com/drive/1JyqKdJh5qIe2Z2cNrJEcN4uy-b7-r3Uv?usp=drive_link).
