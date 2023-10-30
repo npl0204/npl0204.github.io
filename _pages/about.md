@@ -6,7 +6,7 @@ subtitle: Data Scientist
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: IMG_7872.HEIC
   image_circular: false # crops the image to make it circular
   address: >
     <p>(484)-343-5733</p>
