@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 1
 cv_pdf: LinhNguyen CV.pdf
-description: Resume
+description:
 toc:
   sidebar: left
 ---
