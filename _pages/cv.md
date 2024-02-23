@@ -7,5 +7,5 @@ nav_order: 1
 cv_pdf: LinhNguyen CV.pdf
 description:
 toc:
-  sidebar: left
+  sidebar: left 
 ---
