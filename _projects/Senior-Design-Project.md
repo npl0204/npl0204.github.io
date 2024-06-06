@@ -18,4 +18,4 @@ Machine learning's integration into healthcare has significantly advanced our ab
 </div>
 
 ## Paper
-Please visit the research using this [link to my paper]([https://github.com/npl0204/npl0204.github.io/blob/master/assets/pdf/DREXEL_SENIOR_23_24_Linh.pdf]).
+Please visit the research using this [link to my paper](https://github.com/npl0204/npl0204.github.io/blob/master/assets/pdf/DREXEL_SENIOR_23_24_Linh.pdf).
