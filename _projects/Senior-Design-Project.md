@@ -2,14 +2,9 @@
 layout: page
 title: Health Outcome Predictions with Data Transformation and Machine Learning
 img: assets/img/poster.jpeg
-importance: 1
+importance: 0
 giscus_comments: true
-description: drexel senior design 23-24
-nav: true
-nav_order: 1
-cv_pdf: DREXEL_SENIOR_23_24_Linh.pdf
-toc:
-  sidebar: left 
+description: Supervised by Dr. Hegler Tissot
 ---
 
 ## Abstract
@@ -18,7 +13,9 @@ Machine learning's integration into healthcare has significantly advanced our ab
 ## Poster
 <div class="col">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2poster.jpeg" title="poster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/poster.jpeg" title="poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
+## Paper
+Please visit the research using this [link to my paper]([https://github.com/npl0204/npl0204.github.io/blob/master/assets/pdf/DREXEL_SENIOR_23_24_Linh.pdf]).
