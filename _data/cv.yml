@@ -4,7 +4,7 @@
     - name: Full Name
       value: Linh P. Nguyen
     - name: Skills
-      value: Python, SQL, R, Java, C, Dart, MVC, Microsoft Excel, Tableau, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
+      value: GenAI, LLM, Python, SQL, R, Java, C, Dart, MVC, Microsoft Excel, Tableau, Algorithms and Data Structures, Machine Learning, Artificial Intelligence, Big Data, Statistical Data Analysis, Hypothesis Testing, Database Management Systems, Data Visualization, System Design, Linear Algebra, Web Development
 
 - title: Education
   type: time_table
@@ -14,8 +14,8 @@
       location: Philadelphia, PA
       year: 2022.01-2024.09
       description:
-        - GPA 4.0/4.0, Dean’s List
-        - GHC 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
+        - GPA 4.0/4.0, Top 1, Dean’s List
+        - Outstanding Course Assistant Awards, GHC 22 & 23 Scholar, Anthony J. Drexel Merit Scholarship, Day Alumni Fund
         - Teaching Assistant (20 hrs/week) for Data Science Programming (INFO 212) and Database Management Systems (INFO 210)
     - title: Bachelor of Pharmacy 
       institution: University of Birmingham
@@ -29,10 +29,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Data Scientist
+      department: Oracle 
+      location: Remote, PA
+      year: 2024.09-now
+      desciprtion: 
+        - Conducted research on applying Wide & Deep Learning and Large Language Models (LLMs) with different fine-tuning techniques to tabular data to enhance model performance and optimize predictive accuracy.
     - title: Data Scientist Co-Op
       department: Oracle 
       location: Remote, PA
-      year: 2023.09-now
+      year: 2023.09-2024.09
       desciprtion: 
         - Leading research initiatives in Federated Learning, focusing on innovative strategies to enhance product optimization and performance, while facilitating robust, scalable, and privacy-preserving machine learning models.
     - title: Software Development Engineer Intern
@@ -82,13 +88,13 @@
     - title: Founder
       department: Drexel Association for Data Science 
       location: Philadelphia, PA
-      year: 2023.02-now
+      year: 2023.02-2024.09
       description:
         - Collaborated with fellow co-founders to establish the association’s vision, mission, and goals, and developed a strategic plan. Actively engaged in networking with professors, mentors, and business partners to establish meaningful relationships and foster collaborative opportunities for members.
     - title: <a href="https://drexel.edu/cci/academics/undergraduate-programs/deans-ambassadors/linh-nguyen/">Senior CCI Dean’s Ambassador</a>
       institution: Drexel University  
       location: Philadelphia, PA
-      year: 2022.09-now
+      year: 2022.09-2024.09
       description:
         - Exemplified student leadership and community-building skills, representing Drexel University and advocating for the student body to various stakeholders (students, parents, partner schools, VIP guests, etc.). Developing valuable skills in public speaking, networking, marketing, and communications.
     - title: President
